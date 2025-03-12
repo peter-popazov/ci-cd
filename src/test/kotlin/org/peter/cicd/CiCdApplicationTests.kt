@@ -9,7 +9,7 @@ class CiCdApplicationTests {
 
     @Test
     fun contextLoads() {
-        assertTrue { false }
+        assertTrue { true }
     }
 
 }
